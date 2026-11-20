@@ -3,10 +3,11 @@
 
 - 🔭 I’m currently working on [Bank project](https://github.com/SalahSaadani/Bank-Project-OOP.git)
 
-- 🌱 I’m currently learning **C++ & C#**
-
-- 💬 Ask me about **C++ & C#**
-
+- 🌱 **C++ & C#, Data Structures & Algorith**
+- ** ADO.NET , EF Core , SQL Server | T-SQL , RESTful APIs **
+- SOLID Principles | API Security (JWT, Roles & Policies in ASP.NET Core)
+- HTML | CSS and Now i'm in JavaScript
+- 💬 Ask me 
 - 📫 How to reach me **salaheddinesaadani@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
